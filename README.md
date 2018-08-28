@@ -1,4 +1,6 @@
 # Welcome Message for Tic Tac Toe
+ ruby lib/welcome.rb
+ puts "Welcome to Tic Tac Toe!"
 
 ## Overview
 
